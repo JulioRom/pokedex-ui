@@ -5,6 +5,7 @@ import Evolutions from "./pages/Evolutions";
 import Moves from "./pages/Moves";
 import Encounters from "./pages/Encounters";
 import Stats from "./pages/Stats";
+import Favorites from "./components/pokedex/Favorites";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Route path="/moves" element={<Moves />} />
         <Route path="/encounters" element={<Encounters />} />
         <Route path="/stats" element={<Stats />} />
+        <Route path="/favorites" element={<Favorites />} />
       </Routes>
     </Router>
   );

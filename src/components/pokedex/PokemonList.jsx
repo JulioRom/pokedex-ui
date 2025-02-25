@@ -17,7 +17,7 @@ const PokemonList = ({ filteredPokemon = [] }) => {
             {filteredPokemon.length === 0 ? (
                 <p className="text-center text-gray-600">No se encontraron Pokémon...</p>
             ) : (
-                <div className="grid grid-cols-2 gap-6 overflow-y-auto h-[490px]">
+                <div className="grid grid-cols-2 gap-4 overflow-y-auto h-[500px]">
                     {filteredPokemon.map((pokemon) => (
                         <PokemonCard 
                             key={pokemon.id} 

@@ -1,9 +1,9 @@
 // components/ui/NavigationLinks.js
-
 export const NAVIGATION_LINKS = [
     { name: "Pokédex", path: "/" },
-    { name: "Evoluciones", path: "/evolutions" },
-    { name: "Movimientos", path: "/moves" },
-    { name: "Encuentros", path: "/encounters" },
-    { name: "Estadísticas", path: "/stats" }
+    { name: "PokeEvoluciones", path: "/evolutions" },
+    { name: "PokeMovimientos", path: "/moves" },
+    { name: "PokeEncuentros", path: "/encounters" },
+    { name: "PokeEstadísticas", path: "/stats" },
+    { name: "PokeFavoritos", path: "/favorites" }
 ];
