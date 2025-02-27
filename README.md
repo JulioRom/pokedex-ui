@@ -1,4 +1,4 @@
-# 🏆 Pokédex React - Interfaz Interactiva de Pokémon
+# 🏆 Pokédex React | Interfaz Interactiva de Pokémon
 
 ## 📌 Descripción
 Esta es una Pokédex desarrollada en **React.js**, que permite a los usuarios explorar todos los Pokémon con sus estadísticas, imágenes y detalles. Se han implementado características avanzadas como **filtros por nombre, tipo, peso, altura y experiencia base**, una **pestaña de favoritos** y una interfaz inspirada en la estética de las Pokédex de los juegos oficiales.
